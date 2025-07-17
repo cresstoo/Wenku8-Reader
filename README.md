@@ -1,6 +1,6 @@
-# 轻小说文库极简阅读
+# 轻小说文库阅读器
 
-一个极简风格的油猴脚本，优化轻小说文库（wenku8.net）阅读页面的体验，支持多种字体、字号、主题配色，去广告。
+一个油猴脚本，优化轻小说文库（wenku8.net）阅读页面的体验，支持多种字体、字号、主题配色，去广告。
 
 ## 功能特性
 - 极简UI，自动隐藏广告和杂项
@@ -10,7 +10,7 @@
 
 ## 安装方法
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-2. 打开 [wenbu8.user.js](./wenbu8.user.js) 脚本，点击安装
+2. 打开 [脚本主页](https://greasyfork.org/scripts/542843)，点击安装
 
 
 

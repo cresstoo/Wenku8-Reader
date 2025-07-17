@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         轻小说文库极简阅读
-// @namespace    https://github.com/cresstoo/wk8-reader-final
+// @namespace    https://github.com/cresstoo/wenku8-reader
 // @version      1.0.0
 // @description  极简阅读页面优化，支持多种字体大小主题配色
 // @author       cress
